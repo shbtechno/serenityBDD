@@ -1,4 +1,4 @@
 package com.shbtechno.pages;
 
-public class Login extends BasePage{
+public class Login extends BasePage {
 }

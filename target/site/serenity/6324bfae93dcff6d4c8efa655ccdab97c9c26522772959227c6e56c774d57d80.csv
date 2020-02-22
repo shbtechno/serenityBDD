@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test failures","This is failed test","FAILURE","2020-02-22T20:42:37.254Z[Europe/London]","0.0","5.11"
+"Test failures","Verify entering text in Google search","SUCCESS","2020-02-22T20:42:37.671Z[Europe/London]","0.0","19.42"
+"Test failures","This is failed test using softassert","FAILURE","2020-02-22T20:42:38.225Z[Europe/London]","0.0","2.39"

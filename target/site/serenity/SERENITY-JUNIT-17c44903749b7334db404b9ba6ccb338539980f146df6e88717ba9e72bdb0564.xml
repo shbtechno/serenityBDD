@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.shbtechno.tests.search.TestFailures" skipped="4" tests="6" time="26.92" timestamp="2020-02-22 08:42:37"><testcase classname="com.shbtechno.tests.search.TestFailures" name="This is failed test"><failure type="java.lang.AssertionError"/><system-err>null&#13;
+com.shbtechno.tests.search.TestFailures.failedTest(TestFailures.java:66)&#13;
+</system-err></testcase><testcase classname="com.shbtechno.tests.search.TestFailures" name="Verify entering text in Google search"/><testcase classname="com.shbtechno.tests.search.TestFailures" name="This is failed test using softassert"><failure message="The following asserts failed:&#10;&#9;null" type="java.lang.AssertionError">The following asserts failed:
+	null</failure><system-err>The following asserts failed:
+	null&#13;
+com.shbtechno.tests.search.TestFailures.failedTestSoft(TestFailures.java:75)&#13;
+</system-err></testcase></testsuite>

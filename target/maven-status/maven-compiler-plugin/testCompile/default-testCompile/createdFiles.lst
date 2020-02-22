@@ -1,0 +1,5 @@
+com\shbtechno\steps\LoginSteps.class
+com\shbtechno\steps\DDSearchSteps.class
+com\shbtechno\tests\search\TestFailures.class
+com\shbtechno\tests\applicationService\closure\Closure_Application_Service.class
+com\shbtechno\tests\applicationService\search\Search_Application_Service.class

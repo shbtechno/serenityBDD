@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 25.667 sec <<< FAILURE! - in TestSuite
+failedTest[0] on failedTest[0](com.shbtechno.tests.search.TestFailures)(com.shbtechno.tests.search.TestFailures)  Time elapsed: 1.51 sec  <<< FAILURE!
+java.lang.AssertionError: null
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.fail(Assert.java:95)
+	at com.shbtechno.tests.search.TestFailures.failedTest(TestFailures.java:66)
+
+failedTest[1] on failedTest[1](com.shbtechno.tests.search.TestFailures)(com.shbtechno.tests.search.TestFailures)  Time elapsed: 2.446 sec  <<< FAILURE!
+java.lang.AssertionError: null
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.fail(Assert.java:95)
+	at com.shbtechno.tests.search.TestFailures.failedTest(TestFailures.java:66)
+
+failedTestSoft[1] on failedTestSoft[1](com.shbtechno.tests.search.TestFailures)(com.shbtechno.tests.search.TestFailures)  Time elapsed: 0.547 sec  <<< FAILURE!
+java.lang.AssertionError: The following asserts failed:
+	null
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:43)
+	at com.shbtechno.tests.search.TestFailures.failedTestSoft(TestFailures.java:75)
+
+failedTestSoft[0] on failedTestSoft[0](com.shbtechno.tests.search.TestFailures)(com.shbtechno.tests.search.TestFailures)  Time elapsed: 0.547 sec  <<< FAILURE!
+java.lang.AssertionError: The following asserts failed:
+	null
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:43)
+	at com.shbtechno.tests.search.TestFailures.failedTestSoft(TestFailures.java:75)
+
