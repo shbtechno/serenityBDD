@@ -9,8 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <serenity.version>2.1.6</serenity.version>
-        <serenity.maven.version>2.1.6</serenity.maven.version>
+        <serenity.version>2.1.8</serenity.version>
+        <serenity.maven.version>2.1.8</serenity.maven.version>
         <serenity.cucumber.version>1.9.51</serenity.cucumber.version>
     </properties>
     <!-- Define the Bintray repos for convenience -->
@@ -29,6 +29,7 @@
         </pluginRepository>
     </pluginRepositories>-->
     <dependencies>
+
         <dependency>
             <groupId>net.serenity-bdd</groupId>
             <artifactId>serenity-core</artifactId>
@@ -77,13 +78,13 @@
             <scope>test</scope>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
-        <dependency>
+      <!--  <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>6.11</version>
             <scope>test</scope>
         </dependency>
-
+-->
         <dependency>
             <groupId>com.googlecode.lambdaj</groupId>
             <artifactId>lambdaj</artifactId>
@@ -97,8 +98,14 @@
              <version>1.12.0</version>
             <!--1.12.0,,,,,,,,,,,,,,,,,,,,done,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-->
         </dependency>
+        <dependency>
+            <groupId>org.assertj</groupId>
+            <artifactId>assertj-core</artifactId>
+            <version>1.7.0</version>
+            <scope>compile</scope>
+        </dependency>
 
-       <!-- /*BELOW IS NOT THERE ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */-->
+        <!-- /*BELOW IS NOT THERE ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */-->
       <!--  <dependency>
             <groupId>com.github.javafaker</groupId>
             <artifactId>javafaker</artifactId>

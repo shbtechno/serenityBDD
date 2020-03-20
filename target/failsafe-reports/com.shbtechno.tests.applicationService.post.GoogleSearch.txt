@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.shbtechno.tests.applicationService.post.GoogleSearch
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 20.984 sec <<< FAILURE! - in com.shbtechno.tests.applicationService.post.GoogleSearch
+enterSearchInGoogle[0](com.shbtechno.tests.applicationService.post.GoogleSearch)  Time elapsed: 8.465 sec  <<< FAILURE!
+java.lang.AssertionError: expected:<"Sign in[ Not]"> but was:<"Sign in[]">
+	at com.shbtechno.pages.BasePage.verifySignButtonAvailableFailedTest(BasePage.java:36)
+	at com.shbtechno.steps.GoogleSearchSteps.verifySignButtonFailedTest(GoogleSearchSteps.java:31)
+	at com.shbtechno.tests.applicationService.post.GoogleSearch.enterSearchInGoogle(GoogleSearch.java:59)
+

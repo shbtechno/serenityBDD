@@ -1,0 +1,2 @@
+ENDPOINT             ,INPUT    ,STATUSCODE
+/weather/city/{input},Hyderabad,201

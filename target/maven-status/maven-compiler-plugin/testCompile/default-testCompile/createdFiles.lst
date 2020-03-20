@@ -1,5 +1,8 @@
+com\shbtechno\tests\applicationService\post\GoogleSearch.class
+com\shbtechno\utils\MSTestbase.class
+com\shbtechno\steps\microservice\GetBaseURISteps.class
 com\shbtechno\steps\LoginSteps.class
-com\shbtechno\steps\DDSearchSteps.class
-com\shbtechno\tests\search\TestFailures.class
-com\shbtechno\tests\applicationService\closure\Closure_Application_Service.class
-com\shbtechno\tests\applicationService\search\Search_Application_Service.class
+com\shbtechno\steps\GoogleSearchSteps.class
+com\shbtechno\utils\ReusableSpecifications.class
+com\shbtechno\steps\microservice\MicroserviceSteps.class
+com\shbtechno\tests\applicationService\get\getWeather.class

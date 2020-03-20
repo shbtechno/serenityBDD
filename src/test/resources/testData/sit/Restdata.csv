@@ -1,0 +1,2 @@
+ENDPOINT             ,INPUT,STATUSCODE
+/weather/city/{input},Pune ,200

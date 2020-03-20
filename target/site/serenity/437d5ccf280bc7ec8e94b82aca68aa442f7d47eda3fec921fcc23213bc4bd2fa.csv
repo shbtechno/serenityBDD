@@ -1,2 +1,2 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Test failures","Verify entering text in Google search","SUCCESS","2020-02-22T20:42:37.671Z[Europe/London]","0.0","19.42"
+"Google search","Verify entering text in Google search - Passed test","SUCCESS","2020-03-20T16:35:29.751Z[Europe/London]","0.0","5.62"

@@ -1,5 +1,8 @@
-C:\WorkSpace\SerenityBDD\src\test\java\com\shbtechno\steps\DDSearchSteps.java
-C:\WorkSpace\SerenityBDD\src\test\java\com\shbtechno\tests\applicationService\search\Search_Application_Service.java
-C:\WorkSpace\SerenityBDD\src\test\java\com\shbtechno\tests\search\TestFailures.java
 C:\WorkSpace\SerenityBDD\src\test\java\com\shbtechno\steps\LoginSteps.java
-C:\WorkSpace\SerenityBDD\src\test\java\com\shbtechno\tests\applicationService\closure\Closure_Application_Service.java
+C:\WorkSpace\SerenityBDD\src\test\java\com\shbtechno\tests\applicationService\get\getWeather.java
+C:\WorkSpace\SerenityBDD\src\test\java\com\shbtechno\tests\applicationService\post\GoogleSearch.java
+C:\WorkSpace\SerenityBDD\src\test\java\com\shbtechno\steps\microservice\GetBaseURISteps.java
+C:\WorkSpace\SerenityBDD\src\test\java\com\shbtechno\utils\MSTestbase.java
+C:\WorkSpace\SerenityBDD\src\test\java\com\shbtechno\steps\microservice\MicroserviceSteps.java
+C:\WorkSpace\SerenityBDD\src\test\java\com\shbtechno\utils\ReusableSpecifications.java
+C:\WorkSpace\SerenityBDD\src\test\java\com\shbtechno\steps\GoogleSearchSteps.java
